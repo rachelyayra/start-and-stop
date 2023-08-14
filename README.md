@@ -1,4 +1,4 @@
-# Voice Start-Stop Detection using MFCC and SVM
+# Voice Command Detection using MFCC and SVM
 
 This GitHub repository contains a machine learning project for detecting voice segments that say "start" and "stop" using Mel-Frequency Cepstral Coefficients (MFCC) for voice preprocessing and Support Vector Machine (SVM) for classification.
 
