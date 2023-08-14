@@ -14,7 +14,7 @@ The dataset consists of 20 different voices, each saying "start" and "stop" in v
 
 1. **Data Preprocessing**: Audio samples are converted to MFCC feature vectors, which capture essential characteristics of the voices while reducing dimensionality.
 
-2. **Feature Extraction**: MFCC features are extracted using libraries like Librosa, enabling efficient analysis of audio data.
+2. **Feature Extraction**: MFCC features are extracted using Librosa, enabling efficient analysis of audio data.
 
 3. **SVM Classification**: The SVM classifier is trained on the MFCC features of the "start" and "stop" audio segments. SVM is chosen for its ability to handle non-linear decision boundaries effectively.
 
