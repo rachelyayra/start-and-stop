@@ -8,7 +8,7 @@ Voice start-stop detection is a crucial component in various applications such a
 
 ## Dataset
 
-The dataset consists of 20 different voices, each saying "start" and "stop" in various intonations and styles. The audio samples are preprocessed using MFCC, a common technique for extracting features from audio signals. Principal Component Analysis is applied on the MFCC feature to reduce the dimensions serve as input to the SVM classifier.
+The dataset consists of one (my voice) voice saying "start" and "stop" in various intonations and styles. The audio samples are preprocessed using MFCC, a common technique for extracting features from audio signals. Principal Component Analysis is applied on the MFCC feature to reduce the dimensions serve as input to the SVM classifier.
 
 ## Workflow
 
